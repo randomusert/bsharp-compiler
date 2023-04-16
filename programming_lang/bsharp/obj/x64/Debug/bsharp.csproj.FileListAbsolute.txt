@@ -1,0 +1,8 @@
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\bin\x64\Debug\bsharp.exe.config
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\bin\x64\Debug\bsharp.exe
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\bin\x64\Debug\bsharp.pdb
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\obj\x64\Debug\bsharp.csproj.AssemblyReference.cache
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\obj\x64\Debug\bsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\obj\x64\Debug\bsharp.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\obj\x64\Debug\bsharp.exe
+C:\Users\Eetu\Documents\GitHub\bsharp-compiler\programming_lang\bsharp\obj\x64\Debug\bsharp.pdb

@@ -74,6 +74,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
             }
         }
         "Release"
@@ -197,7 +205,7 @@
             {
             "Name" = "8:b"
             "Description" = "8:"
-            "Extensions" = "8:b"
+            "Extensions" = "8:bs"
             "MIME" = "8:"
             "Icon" = "8:"
             "IconIndex" = "3:0"
@@ -270,7 +278,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:setup"
         "ProductCode" = "8:{120C8563-1D9B-40C6-8B7C-ED4914FF4372}"
-        "PackageCode" = "8:{B8676206-908F-4185-AF42-0F61A7B53DFC}"
+        "PackageCode" = "8:{CAB8CABB-F6EA-4BBB-B039-D1D789DF10FC}"
         "UpgradeCode" = "8:{C2D3D619-0CFE-4255-9DD1-DC541E5A5DE3}"
         "AspNetVersion" = "8:"
         "RestartWWWService" = "11:FALSE"
