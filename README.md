@@ -1,2 +1,2 @@
 # bsharp-compiler
-Make a File ending with a .b
+Make a File ending with a .bs
